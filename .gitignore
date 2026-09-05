@@ -1,0 +1,8 @@
+# WorkBuddy 本地记忆（含个人数据，勿上传）
+.workbuddy/
+
+# 系统文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store

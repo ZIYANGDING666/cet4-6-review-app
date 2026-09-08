@@ -1,6 +1,5 @@
 # 提示词 · 四六级复习 App UI 全面重设计（Apple 风格）
 
-> 用途：将本文档完整提供给你的 AI 开发智能体（如 WorkBuddy），作为一轮或多轮 UI/交互重构的任务说明书。
 > 适用对象：本项目（`index.html` + `logic.js` + `default-words.js`）的界面层重构，不涉及业务逻辑重写。
 
 ---
